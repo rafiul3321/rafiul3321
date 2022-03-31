@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>This is my marksheet</title>
+</head>
+<body style="background-color: lightgreen">
+<h1 align="center">WEB BASED RESULT PUBLICATION SYSTEM FOR EDUCATION BOARDS</h1>
+<h4 align="center">JSC/JDC/SSC/DAKHIL/HSC/ALIM AND EQUIVAMINATION</h4>
+<h1 align="center"><b>Result of SSC or Equivalent - 2021</b></h1><br>
+<pre>
+	Roll                : 169940               Registration No         : 1812806409
+	<br>
+	Name of Student     : MD. RAFIUL ISLAM
+	<br>  
+	Father's Name       : MD. ANOWAR HOSSAIN
+	<br>
+	Mother's Name       : ZAKIYA SULTANA
+	<br>
+	Bord                : RAJSHAHI             Session                 : 2019-20
+	<br>
+	Group               : SCIENCE              Type: REGULAR             Gender: MALE
+	<br>
+	Result              : GPA=4.11             Date of Birth           : 12-08-2005
+	<br>
+	Name of Institute   : BOGURA CANTONMENT BORD HIGE SCHOOL
+	  <address align="center">
+	  	<h3>Subject-Wise Grade/Marks</h3>
+	</address> 
+</pre>
+<pre>
+	<h4>Subject Code               Subject Name                                Grade</h4> 
+  101                      BANGLA                                        B
+  107                      ENGLISH                                       A-
+  109                      MATHEMATICS                                   A-
+  150                      BANGLADESH AND GLOBAL STUDIES                 B
+  111                      ISLAM AND MORAL EDUCATION                     A+
+  136                      PHYSICS                                       A
+  137                      CHAMISTRY                                     A-
+  138                      BIOLOGY                                       A+
+  154                      INFORMATION AND COMMUNICATION TECHNOLOGY      A+
+  126                      HIGHER MATHEMATICS                            A-
+</pre><br><br><br>
+<address align="right">
+	This is my Address:<br>
+	Name: MD Rafiul islam<br>
+    Dist.: Rajshahi <br>
+	Phone Number: +8801976569093<br>
+	gmail: rafiul.islam.f1@gmail.com
+</address><br><br>
+<ul align="right">
+	<a href="https://www.facebook.com/profile.php?id=100077442620348" download><b style="color: white">Hello</b> <img src="Capture.PNG" alt="facebook" width="40" height="50"></a>
+</ul>
+
+</body>
+</html>
